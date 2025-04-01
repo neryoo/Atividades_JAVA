@@ -1,0 +1,5 @@
+com\mycompany\sistema_formas_geometricas\Sistema_formas_geometricas.class
+com\mycompany\sistema_formas_geometricas\Forma.class
+com\mycompany\sistema_formas_geometricas\Quadrado.class
+com\mycompany\sistema_formas_geometricas\Retangulo.class
+com\mycompany\sistema_formas_geometricas\Circulo.class
