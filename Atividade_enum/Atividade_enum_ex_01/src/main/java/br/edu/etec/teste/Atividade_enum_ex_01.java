@@ -30,7 +30,7 @@ public class Atividade_enum_ex_01 {
         
        int num = 3;
        
-       if(num >= 1 && num<= 7){
+       if(num >= 1 && num <= 7){
            DiaSemana_ex01 dia = DiaSemana_ex01.values()[num-1];
            System.out.println("O dia da semana selecionado é: " + dia);
        }else{

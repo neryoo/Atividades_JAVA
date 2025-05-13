@@ -22,7 +22,7 @@ public enum MesesAno_ex02 {
     NOVEMBRO(11), 
     DEZEMBRO(12);
     
-      private final int numero;
+    private final int numero;
 
     MesesAno_ex02(int numero) {
             this.numero = numero;
