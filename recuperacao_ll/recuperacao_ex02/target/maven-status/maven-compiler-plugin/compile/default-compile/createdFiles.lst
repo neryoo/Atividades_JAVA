@@ -1,0 +1,7 @@
+br\edu\etec\ex2\exceptions\ClasseInvalidaException.class
+br\edu\etec\ex2\exceptions\ValorPassagemInvalidoException.class
+br\edu\etec\ex2\model\PassagemPrime.class
+br\edu\etec\ex2\model\PassagemExecutiva.class
+br\edu\etec\ex2\TesteReservas\Recuperacao_ex02.class
+br\edu\etec\ex2\model\Passagem.class
+br\edu\etec\ex2\model\PassagemEconomica.class
